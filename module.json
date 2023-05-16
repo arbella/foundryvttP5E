@@ -42,5 +42,8 @@
         "system": "dnd5e"
       }
     ]
-  }
+  },
+  "download": "https://github.com/arbella/foundryvttP5E/archive/refs/tags/ham.zip",
+  "manifest": "https://github.com/arbella/foundryvttP5E/blob/v10attempt/module.json",
+  "url": "https://github.com/arbella/foundryvttP5E"
 }
